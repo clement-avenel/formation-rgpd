@@ -14,5 +14,8 @@
     "slidev-theme-penguin": "^1.1.2",
     "slidev-theme-vuetiful": "^0.1.0"
   },
-  "name": "formation-rgpd"
+  "name": "formation-rgpd",
+  "devDependencies": {
+    "playwright-chromium": "^1.12.3"
+  }
 }

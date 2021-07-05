@@ -15,7 +15,7 @@ titleRow: true
 <br>
 <br>
 
-#### Présentation à retrouver sur [Github](https://github.com/clement-avenel)
+#### Présentation à retrouver sur [Github](https://github.com/clement-avenel/formation-rgpd)
 
 <div class="abs-br m-6 flex gap-2">
   <a href="mailto:clement@colibri-dpo.com" alt="Poser une question"
